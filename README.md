@@ -1,4 +1,4 @@
-<h1>Hello, I'm Abraline, an <a href="[(https://www.linkedin.com/in/abby-louis-a13918282/)h">IT Professional</a>☺</h1>
+<h1>Hello, I'm Abraline, an <a href="https://www.linkedin.com/in/abby-louis-a13918282/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
